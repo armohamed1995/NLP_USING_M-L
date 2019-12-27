@@ -3,6 +3,8 @@
 
 Natural Language Processing with Python for Machine Learning Essential Training. I'm A R Mohammed. I'm a  data scientist (Intern) with a passion for natural language processing. 
 
+you can download the dataset from https://archive.ics.uci.edu/ml/datasets/sms+spam+collection 
+
 # In this repository , I will cover some basics of natural language processing like reading in and creating structure in messy text data, and then cleaning and tokenizing that data. 
 
 Then I have used some of the more advanced topics like lemmatizing, stemming, and vectorizing your data. 
