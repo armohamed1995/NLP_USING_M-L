@@ -1,7 +1,7 @@
 # NLP_USING_M/L
 
 
-Natural Language Processing with Python for Machine Learning Essential Training. I'm A R Mohammed. I'm a  data scientist (Intern) with a passion for natural language processing. 
+Natural Language Processing with Python using  Machine Learning. I'm A R Mohammed. I'm a  data scientist (Intern) with a passion for natural language processing. 
 
 you can download the dataset from https://archive.ics.uci.edu/ml/datasets/sms+spam+collection 
 
